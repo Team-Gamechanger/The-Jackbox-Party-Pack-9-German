@@ -1,6 +1,6 @@
 {
 	"env":"pc",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"logging":"false",
 	"dev-console":"false",
 	"videoplayer":"true",

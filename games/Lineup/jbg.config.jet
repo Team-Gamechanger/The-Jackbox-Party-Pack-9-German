@@ -1,7 +1,7 @@
 {
 	"logging":"false",
 	"env":"pc",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"debug":"false",
 	"supportsKeyboard":"true",
 	"uaAppName":"Lineup",

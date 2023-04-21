@@ -16,7 +16,7 @@
 	"supportsJoysticksHotplugging":"true",
 	"gameName":"AntiqueGame",
 	"env":"pc",
-	"joinUrl":"JACKBOX.GG",
+	"joinUrl":"JACKBOX.DE",
 	"debug":"false",
 	"serverUrl":"ecast.jackboxgames.com",
 	"supportsKeyboard":"true",

@@ -16,7 +16,7 @@
 	"supportsJoysticksHotplugging":"true",
 	"gameName":"RangeGame",
 	"env":"pc",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"debug":"false",
 	"serverUrl":"ecast.jackboxgames.com",
 	"supportsKeyboard":"true",

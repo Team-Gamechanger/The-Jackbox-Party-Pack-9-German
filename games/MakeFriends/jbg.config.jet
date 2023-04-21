@@ -11,7 +11,7 @@
 	"gameTag":"htmf",
 	"debug":"false",
 	"defaultLocale":"en",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"supportsFullScreen":"true",
 	"canPauseOnPressStart":"true",
 	"supportsMouse":"true",
